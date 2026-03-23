@@ -1,0 +1,10 @@
+# Core data handling
+pandas==3.0.1
+numpy==2.4.3
+
+# Visualization (used in notebooks)
+matplotlib
+seaborn
+
+# Modeling (used in notebooks)
+scikit-learn
